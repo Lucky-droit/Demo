@@ -1,2 +1,1 @@
-var htmlData = document.documentElement.outerHTML;
-        document.write(htmlData);
+window.alert(1)
